@@ -1,11 +1,7 @@
 -- USE THIS CODE TO GET DATA FOR LESSONS-----------------------------------------------------
 
-
 -- Sams Teach Yourself SQL in 10 Minutes, 5th Edition
--- http://forta.com/books/0135182794/
--- Example table creation scripts for IBM DB2.
 -----------------------------------------------------
-
 
 -------------------------
 -- Create Customers table
